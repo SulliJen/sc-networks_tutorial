@@ -1,4 +1,4 @@
-# **BMI 567/667 Tutorial on the Application of Networks to scRNA-seq Analysis**
+# **Tutorial on the Application of Networks to scRNA-seq Analysis**
 ________________________
 Created by Jennifer Sullivan (sulljenn@ohsu.edu)
 ________________________
