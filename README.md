@@ -22,7 +22,7 @@ $ conda env create --file environment.yml
 
 ### **Step 3:  Activate the conda environment**
 ```
-$ conda activate nx_env
+$ conda activate sc-networks_env
 ```
 
 ### **Step 4:  Start a Jupyter session**
