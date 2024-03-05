@@ -16,7 +16,6 @@ $ cd sc-networks_tutorial
 
 ### **Step 2:  Install the conda environment**
 ```
-# create the conda env 
 $ conda env create --file environment.yml
 ```
 
